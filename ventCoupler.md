@@ -81,8 +81,8 @@ Away we go:
 
 ![Part Image](./fusion360/Neal/vent%20coupler/images/Screenshot%202023-12-18%20at%208.05.03 AM.png)
 
-
 Here is our first printed prototype
+
 ![Part Image](./fusion360/Neal/vent%20coupler/images/Screenshot%202023-12-18%20at%208.17.14 AM.png)
 
 because we cannot print molten plastic in thin air, we build supports (Like a scaffold), as well as support interfaces (Go between the actual part and the support scaffold), so when printing above the bed that there is something to print on, the supports and interface must be manually removed when the print is complete.
