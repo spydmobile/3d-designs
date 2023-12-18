@@ -132,26 +132,54 @@ because we cannot print molten plastic in thin air, we build supports (Like a sc
 First we had to make a 3d part in fusion 360 to use as a cutting template.
 
 
-![partx](../fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.21.15 PM.png)
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.21.15 PM.png)
 
-![partx](../fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.21.03 PM.png)
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.21.03 PM.png)
 
 ### Implementing the part in Bambu Studio
 
 Here we must import the 3d part into bambu studio and place it correctly and make it a negative cut from the main body.
 
-![partx](../fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.30.36 PM.png)
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.30.36 PM.png)
+
+### Slicing V2
 
 Now we slice it into G-CODE
 
-![partx](../fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.45.47 PM.png)
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.45.47 PM.png)
 
 And finally we send the gcode to the printer to print.
 
 ![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%202.49.25 PM.png)
 
+### Printing V2
 
-Additional possible complications we may need to revisit in future versions:
+Printing V2 on the Bambu Labs X1-Carbon + AMS
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.04.28 PM.png)
+
+
+### V2 final print complete
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.28.00 PM.png)
+
+### V2 support removal
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.28.13 PM.png)
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.28.27 PM.png)
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.28.39 PM.png)
+
+### The finished V2 Prototype.
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.29.18 PM.png)
+
+### V2 and OG comparison.
+
+![partx](./fusion360/neil/vent%20coupler/images/Screenshot%202023-12-18%20at%203.28.58 PM.png)
+
+## Additional possible complications we may need to revisit in future versions:
 
 * the thickness of the outer wall around the D hole may be up to .5 mm too big. Only a test fit will confirm.
 * The original part has the outward sprocket hole opening with a slight bevel to make it easier to slide the coupler on to the sprocket post. our part has none, but again only a test fit can confirm this.
